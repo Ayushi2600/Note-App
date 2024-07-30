@@ -13,9 +13,15 @@ The provided code is a simple Note App built using React. It allows users to add
 -> To build this app from scratch, follow these steps:
 
 a) Create a new React app using create-react-app.
+
 b) Import the useState hook from React.
+
 c) Define the notes and newNote state variables using useState.
+
 d) Create the handleSubmit and handleDelete event handlers.
+
 e) Build the JSX components, including the form, input field, button, and list of notes.
+
 f) Use the map function to render the list of notes.
+
 g) Add CSS styles to make the app look visually appealing.
