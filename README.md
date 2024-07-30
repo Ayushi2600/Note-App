@@ -8,7 +8,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Note-app
 
 The provided code is a simple Note App built using React. It allows users to add, display, and delete notes.
-![Note app](src/note-app1.PNG)
+![Note app](https://github.com/Ayushi2600/Note-App/commit/07ca56d6e025d269ca7c17f12c08bed67634c8f7#commitcomment-144808010)
 
 -> To build this app from scratch, follow these steps:
 
